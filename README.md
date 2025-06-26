@@ -1,5 +1,4 @@
-  <p><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://github.com/chanoiu/chanoiu/raw/master/profile.gif" alt="Header"></a></p>
-<p><a href="https://www.adamalston.com/"><img src="https://img.shields.io/badge/-ADAMALSTON.COM-000000?style=for-the-badge&amp;logo=react&amp;logoColor=white" alt="adamalston.com"></a></p>
+  <p><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://img.shields.io/badge/-ADAMALSTON.COM-000000?style=for-the-badge&amp;logo=react&amp;logoColor=white" alt="adamalston.com"></a></p>
 <p><strong>Languages I have used</strong></p>
 <p><img src="https://img.shields.io/badge/-C-000000?style=flat&amp;logo=C" alt="C">
 <img src="https://img.shields.io/badge/-C++-000000?style=flat&amp;logo=C%2B%2B&amp;logoColor=00599C" alt="C++">
