@@ -41,7 +41,7 @@
 <a href="https://github.com/adamalston/rgbTextColorizer"><img src="https://img.shields.io/badge/-%F0%9F%8C%88%C2%A0%C2%A0RGB%C2%A0Text%C2%A0Colorizer-000000?style=flat" alt="RGB Text Colorizer"></a></p>
 <h1>
     <a href="">
-        <img align="" height="130px" src="https://github-readme-stats.vercel.app/api?username=chanoiu &amp;hide_title=true&amp;show_icons=true&amp;include_all_commits=true&amp;line_height=21&amp;bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&amp;theme=graywhite"><img align="" height="130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanoiu &amp;hide_title=true&amp;layout=compact&amp;bg_color=0,73FA79,73FDFF,7A81FF&amp;theme=graywhite">
+        <img align="" height="130px" src="https://github-readme-stats.vercel.app/api?username=chanoiu&amp;hide_title=true&amp;show_icons=true&amp;include_all_commits=true&amp;line_height=21&amp;bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&amp;theme=graywhite"><img align="" height="130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanoiu&amp;hide_title=true&amp;layout=compact&amp;bg_color=0,73FA79,73FDFF,7A81FF&amp;theme=graywhite">
     </a>
 </h1>
 <hr>
