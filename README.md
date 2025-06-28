@@ -1,47 +1,42 @@
-  <p><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://img.shields.io/badge/-CHANO.DEV-000000?style=for-the-badge&amp;logo=react&amp;logoColor=white" alt="chano.dev"></a></p>
+<p><img src="https://img.shields.io/badge/-CHANO.DEV-000000?style=for-the-badge&amp;logo=react&amp;logoColor=white" alt="chano.dev"></p>
+
 <p><strong>Languages I have used</strong></p>
-<p><img src="https://img.shields.io/badge/-C-000000?style=flat&amp;logo=C" alt="C">
-<img src="https://img.shields.io/badge/-C++-000000?style=flat&amp;logo=C%2B%2B&amp;logoColor=00599C" alt="C++">
-<img src="https://img.shields.io/badge/-Clojure-000000?style=flat&amp;logo=Clojure" alt="Clojure">
-<img src="https://img.shields.io/badge/-HTML5-000000?style=flat&amp;logo=HTML5" alt="HTML5">
-<img src="https://img.shields.io/badge/-Java-000000?style=flat&amp;logo=Java&amp;logoColor=007396" alt="Java">
-<img src="https://img.shields.io/badge/-JavaScript-000000?style=flat&amp;logo=javascript" alt="JavaScript">
-<img src="https://img.shields.io/badge/-Python-000000?style=flat&amp;logo=python" alt="Python">
-<img src="https://img.shields.io/badge/-TypeScript-000000?style=flat&amp;logo=typescript&amp;logoColor=007ACC" alt="TypeScript">
-<img src="https://img.shields.io/badge/-SQL-000000?style=flat&amp;logo=MySQL" alt="SQL">
-<img src="https://img.shields.io/badge/-Swift-000000?style=flat&amp;logo=Swift" alt="Swift"></p>
+<p>
+  <img src="https://img.shields.io/badge/-C-000000?style=flat&amp;logo=C" alt="C">
+  <img src="https://img.shields.io/badge/-C++-000000?style=flat&amp;logo=C%2B%2B&amp;logoColor=00599C" alt="C++">
+  <img src="https://img.shields.io/badge/-Clojure-000000?style=flat&amp;logo=Clojure" alt="Clojure">
+  <img src="https://img.shields.io/badge/-HTML5-000000?style=flat&amp;logo=HTML5" alt="HTML5">
+  <img src="https://img.shields.io/badge/-Java-000000?style=flat&amp;logo=Java&amp;logoColor=007396" alt="Java">
+  <img src="https://img.shields.io/badge/-JavaScript-000000?style=flat&amp;logo=javascript" alt="JavaScript">
+  <img src="https://img.shields.io/badge/-Python-000000?style=flat&amp;logo=python" alt="Python">
+  <img src="https://img.shields.io/badge/-TypeScript-000000?style=flat&amp;logo=typescript&amp;logoColor=007ACC" alt="TypeScript">
+  <img src="https://img.shields.io/badge/-SQL-000000?style=flat&amp;logo=MySQL" alt="SQL">
+  <img src="https://img.shields.io/badge/-Swift-000000?style=flat&amp;logo=Swift" alt="Swift">
+</p>
+
 <p><strong>Some of the technologies I have worked with</strong></p>
-<p><img src="https://img.shields.io/badge/-Git-000000?style=flat&amp;logo=git&amp;logoColor=F05032" alt="Git">
-<img src="https://img.shields.io/badge/-GitHub-000000?style=flat&amp;logo=github&amp;logoColor=FFFFFF" alt="GitHub">
-<img src="https://img.shields.io/badge/-Jira-000000?style=flat&amp;logo=jira-software&amp;logoColor=white&amp;logoColor=0052CC" alt="Jira">
-<img src="https://img.shields.io/badge/-jQuery-000000?style=flat&amp;logo=jQuery&amp;logoColor=0769AD" alt="jQuery">
-<img src="https://img.shields.io/badge/-Linux-000000?style=flat&amp;logo=linux&amp;logoColor=FCC624" alt="Linux">
-<img src="https://img.shields.io/badge/-Node.js-000000?style=flat&amp;logo=node.js&amp;logoColor=339933" alt="Node.js">
-<img src="https://img.shields.io/badge/-React-000000?style=flat&amp;logo=React&amp;logoColor=61DAFB" alt="React">
-<img src="https://img.shields.io/badge/-Spring-000000?style=flat&amp;logo=spring&amp;logoColor=6DB33F" alt="Java Spring">
-<img src="https://img.shields.io/badge/-TCP/IP-000000?style=flat&amp;logo=cisco&amp;logoColor=white" alt="TCP/IP">
-<img src="https://img.shields.io/badge/-XCode-000000?style=flat&amp;logo=XCode&amp;logoColor=1575F9" alt="XCode"><!-- wi*quL3fcV --></p>
+<p>
+  <img src="https://img.shields.io/badge/-Git-000000?style=flat&amp;logo=git&amp;logoColor=F05032" alt="Git">
+  <img src="https://img.shields.io/badge/-GitHub-000000?style=flat&amp;logo=github&amp;logoColor=FFFFFF" alt="GitHub">
+  <img src="https://img.shields.io/badge/-Jira-000000?style=flat&amp;logo=jira-software&amp;logoColor=0052CC" alt="Jira">
+  <img src="https://img.shields.io/badge/-jQuery-000000?style=flat&amp;logo=jQuery&amp;logoColor=0769AD" alt="jQuery">
+  <img src="https://img.shields.io/badge/-Linux-000000?style=flat&amp;logo=linux&amp;logoColor=FCC624" alt="Linux">
+  <img src="https://img.shields.io/badge/-Node.js-000000?style=flat&amp;logo=node.js&amp;logoColor=339933" alt="Node.js">
+  <img src="https://img.shields.io/badge/-React-000000?style=flat&amp;logo=React&amp;logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/-Spring-000000?style=flat&amp;logo=spring&amp;logoColor=6DB33F" alt="Java Spring">
+  <img src="https://img.shields.io/badge/-TCP/IP-000000?style=flat&amp;logo=cisco&amp;logoColor=white" alt="TCP/IP">
+  <img src="https://img.shields.io/badge/-XCode-000000?style=flat&amp;logo=XCode&amp;logoColor=1575F9" alt="XCode">
+</p>
+
 <p><strong>Web/Full Stack projects</strong></p>
-<p><a href="https://github.com/chanoiu"><img src="https://img.shields.io/badge/-%F0%9F%A7%AC%C2%A0%C2%A0My%C2%A0Website-000000?style=flat" alt="My Website"></a>
-<a href="https://github.com/adamalston/COVID-19-Dashboard"><img src="https://img.shields.io/badge/-%F0%9F%A6%A0%C2%A0COVID%E2%80%9119%C2%A0Dashboard-000000?style=flat" alt="COVID-19 Dashboard"></a>
-<a href="https://github.com/adamalston/Summarizer"><img src="https://img.shields.io/badge/-%F0%9F%93%B0%C2%A0%C2%A0Summarizer-000000?style=flat" alt="Summarizer"></a>
-<a href="https://github.com/adamalston/Poker"><img src="https://img.shields.io/badge/-%F0%9F%83%8F%C2%A0Voice%C2%A0Poker-000000?style=flat" alt="Voice Poker"></a>
-<a href="https://github.com/adamalston/PokemonGo-Map"><img src="https://img.shields.io/badge/-%F0%9F%97%BA%EF%B8%8F%C2%A0Pok%C3%A9monGo%C2%A0Map-000000?style=flat" alt="PokémonGo Map"></a></p>
-<p><strong>Cybersecurity projects</strong></p>
-<p><a href="https://github.com/adamalston/Heartbleed"><img src="https://img.shields.io/badge/-%F0%9F%A9%B8%C2%A0Heartbleed-000000?style=flat" alt="Heartbleed"></a>
-<a href="https://github.com/adamalston/SYN-Flood"><img src="https://img.shields.io/badge/-%F0%9F%8C%8A%C2%A0%C2%A0SYN%C2%A0Flood-000000?style=flat" alt="SYN Flood"></a>
-<a href="https://github.com/adamalston/Packet-Sniffing-and-Spoofing"><img src="https://img.shields.io/badge/-%F0%9F%97%83%EF%B8%8F%C2%A0Packet%C2%A0Sniffing%C2%A0&amp;%C2%A0Spoofing-000000?style=flat" alt="Packet Sniffing &amp; Spoofing"></a>
-<a href="https://github.com/adamalston/SQL-Injection"><img src="https://img.shields.io/badge/-%F0%9F%92%89%C2%A0%C2%A0SQL%C2%A0Injection-000000?style=flat" alt="SQL Injection"></a>
-<a href="https://github.com/adamalston/Meltdown-Spectre"><img src="https://img.shields.io/badge/-%F0%9F%9B%A1%EF%B8%8F%C2%A0Spectre%C2%A0&amp;%C2%A0Meltdown-000000?style=flat" alt="Spectre &amp; Meltdown"></a></p>
-<p><strong>Other projects</strong></p>
-<p><a href="https://github.com/adamalston/Clean-My-Mac"><img src="https://img.shields.io/badge/-%F0%9F%A7%BC%C2%A0%C2%A0Clean%C2%A0My%C2%A0Mac-000000?style=flat" alt="Clean My Mac"></a>
-<a href="https://github.com/adamalston/SMTP"><img src="https://img.shields.io/badge/-%F0%9F%93%A7%C2%A0%C2%A0SMTP-000000?style=flat" alt="SMTP"></a>
-<a href="https://github.com/adamalston/Network-Tools"><img src="https://img.shields.io/badge/-%F0%9F%93%A1%C2%A0%C2%A0Network%C2%A0Tools-000000?style=flat" alt="Network Tools"></a>
-<a href="https://github.com/adamalston/CacheSimulator"><img src="https://img.shields.io/badge/-%E2%9B%93%EF%B8%8F%C2%A0Cache%C2%A0Simulator-000000?style=flat" alt="Cache Simulator"></a>
-<a href="https://github.com/adamalston/rgbTextColorizer"><img src="https://img.shields.io/badge/-%F0%9F%8C%88%C2%A0%C2%A0RGB%C2%A0Text%C2%A0Colorizer-000000?style=flat" alt="RGB Text Colorizer"></a></p>
+<p>
+  <a href="https://github.com/chanoiu"><img src="https://img.shields.io/badge/-%F0%9F%A7%AC%C2%A0%C2%A0My%C2%A0Website-000000?style=flat" alt="My Website"></a>
+</p>
+
 <h1>
-    <a href="">
-        <img align="" height="130px" src="https://github-readme-stats.vercel.app/api?username=chanoiu&amp;hide_title=true&amp;show_icons=true&amp;include_all_commits=true&amp;line_height=21&amp;bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&amp;theme=graywhite"><img align="" height="130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanoiu&amp;hide_title=true&amp;layout=compact&amp;bg_color=0,73FA79,73FDFF,7A81FF&amp;theme=graywhite">
-    </a>
+  <a href="">
+    <img align="" height="130px" src="https://github-readme-stats.vercel.app/api?username=chanoiu&amp;hide_title=true&amp;show_icons=true&amp;include_all_commits=true&amp;line_height=21&amp;bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&amp;theme=graywhite">
+    <img align="" height="130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanoiu&amp;hide_title=true&amp;layout=compact&amp;bg_color=0,73FA79,73FDFF,7A81FF&amp;theme=graywhite">
+  </a>
 </h1>
 <hr>
