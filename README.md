@@ -1,4 +1,4 @@
-<p><img src="https://img.shields.io/badge/-CHANO.DEV-000000?style=for-the-badge&amp;logo=react&amp;logoColor=white" alt="chano.dev"></p>
+<p><img src="https://img.shields.io/badge/-CHANO.DEV-000000?style=for-the-badge&amp;logo=react&amp;logoColor=white" alt="whoschano.info"></p>
 
 <p><strong>Languages I have used</strong></p>
 <p>
@@ -30,7 +30,7 @@
 
 <p><strong>Web/Full Stack projects</strong></p>
 <p>
-  <a href="https://github.com/chanoiu"><img src="https://img.shields.io/badge/-%F0%9F%A7%AC%C2%A0%C2%A0My%C2%A0Website-000000?style=flat" alt="My Website"></a>
+  <a href="https://www.whoschano.info"><img src="https://img.shields.io/badge/-%F0%9F%A7%AC%C2%A0%C2%A0My%C2%A0Website-000000?style=flat" alt="My Portfolio"></a>
 </p>
 
 <h1>
