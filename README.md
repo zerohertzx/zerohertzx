@@ -1,6 +1,6 @@
 <p><img src="https://img.shields.io/badge/-CHANO.DEV-000000?style=for-the-badge&amp;logo=react&amp;logoColor=white" alt="whoschano.info"></p>
 
-<p><strong>Languages I have used</strong></p>
+<p><strong>Programming Languages i currently use</strong></p>
 <p>
   <img src="https://img.shields.io/badge/-C-000000?style=flat&amp;logo=C" alt="C">
   <img src="https://img.shields.io/badge/-C++-000000?style=flat&amp;logo=C%2B%2B&amp;logoColor=00599C" alt="C++">
@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/-Swift-000000?style=flat&amp;logo=Swift" alt="Swift">
 </p>
 
-<p><strong>Some of the technologies I have worked with</strong></p>
+<p><strong>Software i currently use</strong></p>
 <p>
   <img src="https://img.shields.io/badge/-Git-000000?style=flat&amp;logo=git&amp;logoColor=F05032" alt="Git">
   <img src="https://img.shields.io/badge/-GitHub-000000?style=flat&amp;logo=github&amp;logoColor=FFFFFF" alt="GitHub">
