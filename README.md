@@ -1,6 +1,6 @@
 <p><img src="https://img.shields.io/badge/-CHANO.DEV-000000?style=for-the-badge&amp;logo=react&amp;logoColor=white" alt="whoschano.info"></p>
 
-<p><strong>Programming Languages i currently use</strong></p>
+<p><strong>Languages i currently use</strong></p>
 <p>
   <img src="https://img.shields.io/badge/-C-000000?style=flat&amp;logo=C" alt="C">
   <img src="https://img.shields.io/badge/-C++-000000?style=flat&amp;logo=C%2B%2B&amp;logoColor=00599C" alt="C++">
