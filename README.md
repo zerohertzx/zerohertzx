@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/-Swift-000000?style=flat&amp;logo=Swift" alt="Swift">
 </p>
 
-<p><strong>Software i currently use</strong></p>
+<p><strong>Softwares i currently use</strong></p>
 <p>
   <img src="https://img.shields.io/badge/-Git-000000?style=flat&amp;logo=git&amp;logoColor=F05032" alt="Git">
   <img src="https://img.shields.io/badge/-GitHub-000000?style=flat&amp;logo=github&amp;logoColor=FFFFFF" alt="GitHub">
