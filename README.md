@@ -28,10 +28,6 @@
   <img src="https://img.shields.io/badge/-XCode-000000?style=flat&amp;logo=XCode&amp;logoColor=1575F9" alt="XCode">
 </p>
 
-<p><strong>Web Projects/Portfolio</strong></p>
-<p>
-  
-
 <h1>
   <a href="">
     <img align="" height="130px" src="https://github-readme-stats.vercel.app/api?username=0XHAZERO&amp;hide_title=true&amp;show_icons=true&amp;include_all_commits=true&amp;line_height=21&amp;bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&amp;theme=graywhite">
