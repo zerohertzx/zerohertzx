@@ -3,9 +3,7 @@
 <p><strong>Languages</strong></p>
 <p>
   <img src="https://img.shields.io/badge/-C-000000?style=flat&amp;logo=C" alt="C">
-  <img src="https://img.shields.io/badge/-C++-000000?style=flat&amp;logo=C%2B%2B&amp;logoColor=00599C" alt="C++">
-  <img src="https://img.shields.io/badge/-Clojure-000000?style=flat&amp;logo=Clojure" alt="Clojure">
-  <img src="https://img.shields.io/badge/-HTML5-000000?style=flat&amp;logo=HTML5" alt="HTML5">
+  <img src="https://img.shields.io/badge/-C++-000000?style=flat&amp;logo=C%2B%2B&amp;logoColor=00599C" alt="C++"> src="https://img.shields.io/badge/-HTML5-000000?style=flat&amp;logo=HTML5" alt="HTML5">
   <img src="https://img.shields.io/badge/-Java-000000?style=flat&amp;logo=Java&amp;logoColor=007396" alt="Java">
   <img src="https://img.shields.io/badge/-JavaScript-000000?style=flat&amp;logo=javascript" alt="JavaScript">
   <img src="https://img.shields.io/badge/-Python-000000?style=flat&amp;logo=python" alt="Python">
@@ -17,15 +15,10 @@
 <p><strong>Softwares & Others</strong></p>
 <p>
   <img src="https://img.shields.io/badge/-Git-000000?style=flat&amp;logo=git&amp;logoColor=F05032" alt="Git">
-  <img src="https://img.shields.io/badge/-GitHub-000000?style=flat&amp;logo=github&amp;logoColor=FFFFFF" alt="GitHub">
-  <img src="https://img.shields.io/badge/-Jira-000000?style=flat&amp;logo=jira-software&amp;logoColor=0052CC" alt="Jira">
-  <img src="https://img.shields.io/badge/-jQuery-000000?style=flat&amp;logo=jQuery&amp;logoColor=0769AD" alt="jQuery">
+  <img src="https://img.shields.io/badge/-GitHub-000000?style=flat&amp;logo=github&amp;logoColor=FFFFFF" alt="GitHub"> src="https://img.shields.io/badge/-jQuery-000000?style=flat&amp;logo=jQuery&amp;logoColor=0769AD" alt="jQuery">
   <img src="https://img.shields.io/badge/-Linux-000000?style=flat&amp;logo=linux&amp;logoColor=FCC624" alt="Linux">
   <img src="https://img.shields.io/badge/-Node.js-000000?style=flat&amp;logo=node.js&amp;logoColor=339933" alt="Node.js">
-  <img src="https://img.shields.io/badge/-React-000000?style=flat&amp;logo=React&amp;logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/-Spring-000000?style=flat&amp;logo=spring&amp;logoColor=6DB33F" alt="Java Spring">
-  <img src="https://img.shields.io/badge/-TCP/IP-000000?style=flat&amp;logo=cisco&amp;logoColor=white" alt="TCP/IP">
-  <img src="https://img.shields.io/badge/-XCode-000000?style=flat&amp;logo=XCode&amp;logoColor=1575F9" alt="XCode">
+  <img src="https://img.shields.io/badge/-React-000000?style=flat&amp;logo=React&amp;logoColor=61DAFB" alt="React"> src="https://img.shields.io/badge/-XCode-000000?style=flat&amp;logo=XCode&amp;logoColor=1575F9" alt="XCode">
 </p>
 
 <h1>
