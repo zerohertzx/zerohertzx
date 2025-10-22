@@ -3,7 +3,8 @@
 <p><strong>Languages</strong></p>
 <p>
   <img src="https://img.shields.io/badge/-C-000000?style=flat&amp;logo=C" alt="C">
-  <img src="https://img.shields.io/badge/-C++-000000?style=flat&amp;logo=C%2B%2B&amp;logoColor=00599C" alt="C++"> src="https://img.shields.io/badge/-HTML5-000000?style=flat&amp;logo=HTML5" alt="HTML5">
+  <img src="https://img.shields.io/badge/-C++-000000?style=flat&amp;logo=C%2B%2B&amp;logoColor=00599C" alt="C++">
+<img src="https://img.shields.io/badge/-HTML5-000000?style=flat&amp;logo=HTML5" alt="HTML5">
   <img src="https://img.shields.io/badge/-Java-000000?style=flat&amp;logo=Java&amp;logoColor=007396" alt="Java">
   <img src="https://img.shields.io/badge/-JavaScript-000000?style=flat&amp;logo=javascript" alt="JavaScript">
   <img src="https://img.shields.io/badge/-Python-000000?style=flat&amp;logo=python" alt="Python">
