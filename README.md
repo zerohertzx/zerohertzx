@@ -30,8 +30,7 @@
 
 <p><strong>Web Projects/Portfolio</strong></p>
 <p>
-  <a href="https://www.whoschano.info"><img src="https://img.shields.io/badge/-%F0%9F%A7%AC%C2%A0%C2%A0My%C2%A0Website-000000?style=flat" alt="My Portfolio"></a>
-</p>
+  
 
 <h1>
   <a href="">
